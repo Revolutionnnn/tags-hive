@@ -1,5 +1,5 @@
 # tags-hive
-Este código utiliza la librería beem y pandas para analizar la ganancia en HBD (una moneda digital en la plataforma Hive) asociada con los 10 tags más populares en la plataforma Hive que comienzan con la palabra "hive".
+Este código utiliza la librería beem y pandas para analizar la ganancia en HBD (una moneda digital en la plataforma Hive) asociada con los 10 tags más populares en la plataforma Hive.
 
 El código define una función llamada comments_payouts que toma una fila de un DataFrame como entrada y devuelve el resultado de dividir el valor total de los pagos (total_payouts) por el número de publicaciones de mayor pago (top_posts).
 
